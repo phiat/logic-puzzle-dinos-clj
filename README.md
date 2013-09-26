@@ -1,8 +1,8 @@
 # logic-puzzle-dinos-clj
 
-trying out [core.logic](https://github.com/clojure/core.logic) and logic puzzles from [logic-puzzles.org](http://www.logic-puzzles.org/init.php).
+trying out [core.logic](https://github.com/clojure/core.logic) and logic puzzles from [logic-puzzles.org](http://www.logic-puzzles.org/init.php).  Inspired/translated by [Kris Jenkins' blog](http://blog.jenkster.com/2013/02/solving-logic-puzzles-with-clojures-corelogic.html).
 
-## Usage
+## Usage 
 
 clone the repo, cd into dir, lein run.
 
