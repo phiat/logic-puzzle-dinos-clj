@@ -12,6 +12,8 @@ $ cd logic-puzzle-dinos-clj
 $ lein run
 ```
 
+*takes about 60 seconds on 2.66 GHz i7 MBP*
+
 ## License
 
 Copyright © 2013 Patrick Ryan
