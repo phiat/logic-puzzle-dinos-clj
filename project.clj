@@ -7,4 +7,4 @@
                  [org.clojure/core.logic "0.8.3"]
                  [org.clojure/tools.macro "0.1.1"]]
 
-  :main logic-puzzles-dinos-clj.core)
+  :main logic-puzzle-dinos-clj.core)
