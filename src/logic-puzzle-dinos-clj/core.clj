@@ -1,4 +1,4 @@
-(ns logic-puzzles-dinos-clj.core
+(ns logic-puzzle-dinos-clj.core
   (:gen-class)
   (:refer-clojure :exclude [== != < get-dom])
   (:use clojure.core.logic

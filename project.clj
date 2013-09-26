@@ -1,4 +1,4 @@
-(defproject logic-puzzles-dinos-clj "0.1.0-SNAPSHOT"
+(defproject logic-puzzle-dinos-clj "0.1.0-SNAPSHOT"
   :description "first attempt with core.logic and logic puzzles"
   :url "FIX"
   :license {:name "Eclipse Public License"
