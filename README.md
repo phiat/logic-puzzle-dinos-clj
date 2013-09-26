@@ -16,6 +16,6 @@ $ lein run
 
 ## License
 
-Copyright © 2013 Patrick Ryan
+Copyright © 2013 Patrick Ryan - phiat
 
 Distributed under the Eclipse Public License, the same as Clojure.
