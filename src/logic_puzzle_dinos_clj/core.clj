@@ -193,6 +193,11 @@
   [& args]
    (println (run-it 1)))
 
+
+;;$ lein run => (take about 60 secounds)
+;; (((:archodon 87 750 :guatemala) (:mirasaurus 78 1000 :yemen) (:pilodontus 69 500 :iceland) (:rotosaurus 90 1250 :serbia) (:verasaurus 85 1500 :uzbekistan)))
+
+
 ;;(run-it 1)
 
 
