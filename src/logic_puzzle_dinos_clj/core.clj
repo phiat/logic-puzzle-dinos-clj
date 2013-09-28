@@ -166,10 +166,10 @@
 (defn run-it [n]
    ;; construct lvars list
   (let [dinos       (repeatedly 5 lvar)
-        ages       (repeatedly 5 lvar)
-        prices    (repeatedly 5 lvar)
-        countries (repeatedly 5 lvar)
-        answers (map list dinos ages prices countries)]
+        ages        (repeatedly 5 lvar)
+        prices      (repeatedly 5 lvar)
+        countries   (repeatedly 5 lvar)
+        answers     (map list dinos ages prices countries)]
     ;; run logic engine
     (run n [q]
 
